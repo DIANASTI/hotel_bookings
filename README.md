@@ -42,11 +42,14 @@ We analyzed thsi dataset and tried to find interesting observations using data a
 - ReservationStatusDate - Date at which the last status was set. This variable can be used in conjunction with the ReservationStatus to understand when was the booking canceled or when did the customer checked-out of the hotel
 - TotalOfSpecialRequests - Number of special requests made by the customer (e.g. twin bed or high floor)
 
+##Links
+---------------------
+https://medium.com/@ndiviana/how-to-save-money-when-booking-a-hotel-eec907f15803
 
 ## Attachments
 ----------------------
 - hotel_bookings.csv - booking confirmation data set 
-- Hotel_Bookings.ipynb - a Jupyter notebook showing data set loading, cleaning, investigation how diffrent feature may affect a bookign rate 
+- Hotel_Bookings.ipynb - a Jupyter notebook showing data set loading, cleaning, investigation how diffrent feature may affect a booking rate 
 
 ## Terms and Conditions
 ----------------------
