@@ -51,6 +51,11 @@ https://medium.com/@ndiviana/how-to-save-money-when-booking-a-hotel-eec907f15803
 - hotel_bookings.csv - booking confirmation data set 
 - Hotel_Bookings.ipynb - a Jupyter notebook showing data set loading, cleaning, investigation how diffrent feature may affect a booking rate 
 
-## Terms and Conditions
+## Acknowledgements:
 ----------------------
-- The dataset is a property of kagggle. For more details, please refer to   https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
+The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
+The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020.
+
+- License: Attribution 4.0 International (CC BY 4.0)
+
+For more details, please refer to   https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
